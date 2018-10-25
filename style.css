@@ -58,4 +58,26 @@ container{
 
 .proLink{
     color: black;
+    margin: 0;
+    padding: 0;
+}
+
+.info{
+    color: black;
+    font-size: 16px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.card-img-top{
+    height: 200px;
+}
+
+.card-body{
+    height: 210px;
+}
+
+.card-text{
+    margin: 0px;
+    padding: 0px;
 }
