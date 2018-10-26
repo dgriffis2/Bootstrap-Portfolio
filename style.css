@@ -32,7 +32,7 @@ container{
     width: 960px;
 }
 .my_background{
-    background-color: white;
+    background-color:white;
 }
 
 .diffpros{
@@ -80,4 +80,14 @@ container{
 .card-text{
     margin: 0px;
     padding: 0px;
+}
+
+#fishPic{
+    height: 225px;
+    width: 225px;
+}
+
+#contactInfo{
+    font-size: 16px;
+    
 }
